@@ -1,4 +1,4 @@
-# cv
+# READ.me-Challenge
 
 undefined
 
@@ -11,19 +11,19 @@ undefined
 - [License](#license)
 
 ## Description
-vc
+this project is used to assist in creating a read.me file in a call and response format 
 
 ## Installation
-zc
+na
 
 ## Usage
-vf
+to use you have to run your node js and the promts will come shortly after!
 
 ## Contribution
-dv
+na
 
 ## Test
-vd
+na
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
